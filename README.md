@@ -20,7 +20,7 @@
 
   </td>
     <td style="vertical-align: middle; width: 40%;">
-      <img src="https://media.tenor.com/XK37GfbV0gIAAAAd/hack.gif" width="300" alt="gif" />
+      <img src=" https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" alt="gif" />
     </td>
   </tr>
 </table>
