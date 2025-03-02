@@ -13,8 +13,8 @@
     <td style="vertical-align: middle; width: 60%;">
 
   ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-%2300C4CC?style=for-the-badge&logo=computer&logoColor=white)  
-  <p>
-    Billy Jonathan adalah seorang mahasiswa Teknik Informatika di Universitas Kuningan yang memiliki minat besar dalam pengembangan web dan mobile.
+  <p>    
+    I am an Informatics Engineering student at Kuningan University who has a great interest in web and mobile development.
   </p>
 
 
