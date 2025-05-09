@@ -7,25 +7,7 @@
 [![Visitor Count](https://img.shields.io/badge/Visitors%20Count-172%2B-%23FF5733?style=for-the-badge&logo=github&logoColor=white)](https://visitcount.itsvg.in)
 </div>
 <br>
-<br>
-<table>
-  <tr>
-    <td style="vertical-align: middle; width: 60%;">
 
-  ![Tech Enthusiast](https://img.shields.io/badge/Tech%20Enthusiast-%2300C4CC?style=for-the-badge&logo=computer&logoColor=white)  
-  <p>    
-    I am an Informatics Engineering student at Kuningan University who has a great interest in web and mobile development.
-  </p>
-
-
-  </td>
-    <td style="vertical-align: middle; width: 40%;">
-      <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="gif" />
-    </td>
-  </tr>
-</table>
-<br>
-<br>
 
 # 💻 Tech Stack
 <div align="center">
@@ -44,32 +26,7 @@
 <br>
 <br>
 
-# 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=BillyJonathan29&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 400px; height: 200px;">
-    </td>
-   <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BillyJonathan29&theme=transparent&hide_border=true" 
-       alt="GitHub Streak Stats" 
-       style="width: 400px; height: 200px;">
-</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyJonathan29&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width: 400px; height: 200px;">
-    </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=BillyJonathan29&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 400px; height: 200px;">
-    </td>
-  </tr>
-</table>
-<br>
-<br>
-<br>
-<br>
 
 
 
